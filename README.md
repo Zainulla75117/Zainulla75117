@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a DevOps Engineer with over 1 year of hands-on experience in building, automating, and managing CI/CD pipelines and cloud-native applications. I have strong working knowledge of Linux, Git, Jenkins, Docker, Kubernetes, Terraform, and AWS. I have deployed real-world applications using containerisation and orchestration, implemented infrastructure as code, and worked with monitoring tools like Prometheus and Grafana. I am passionate about automation, reliability, and continuous improvement, and I am seeking opportunities to grow and contribute in a challenging DevOps environment.
 
 
